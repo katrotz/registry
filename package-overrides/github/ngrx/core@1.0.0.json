@@ -7,7 +7,7 @@
       "loader": "ts"
     }
   },
-  "dependencies": {
+  "peerDependencies": {
     "ts": "jspm:ts"
   },
   "directories": {
