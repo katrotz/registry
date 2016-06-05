@@ -1,0 +1,16 @@
+{
+  "main": "index.ts",
+  "defaultExtension": "ts",
+  "registry": "jspm",
+  "meta": {
+    "*.ts": {
+      "loader": "ts"
+    }
+  },
+  "dependencies": {
+    "ts": "jspm:ts"
+  },
+  "directories": {
+    "lib": "lib"
+  }
+}
