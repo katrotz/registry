@@ -24,7 +24,7 @@
   "ts": "github:frankwallis/plugin-typescript",
   "tsv": "github:wpf500/plugin-tsv",
 
-  "@ngrx/core": "github:@ngrx/core",
+  "@ngrx/core": "github:ngrx/core",
   "ace": "github:ajaxorg/ace-builds",
   "adam": "npm:adam",
   "alt": "npm:alt",
